@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\bin\Debug\Dominio.dll
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\bin\Debug\Dominio.pdb
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\obj\Debug\Dominio.dll
+C:\Users\usuario\Desktop\Punto De Venta c#\Punto De Venta\Dominio\obj\Debug\Dominio.pdb
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\bin\Debug\Dominio.dll
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\bin\Debug\Dominio.pdb
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\obj\Debug\Dominio.dll
+C:\Users\usuario\Desktop\Punto De Venta\Dominio\obj\Debug\Dominio.pdb
